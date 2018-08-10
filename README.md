@@ -1,0 +1,20 @@
+<dependency>
+	<groupId>io.springfox</groupId>
+	<artifactId>springfox-swagger2</artifactId>
+	<version>2.9.0-SNAPSHOT</version>
+</dependency>
+<dependency>
+	<groupId>io.springfox</groupId>
+	<artifactId>springfox-spring-webflux</artifactId>
+	<version>2.9.0-SNAPSHOT</version>
+</dependency>
+<dependency>
+	<groupId>io.springfox</groupId>
+	<artifactId>springfox-swagger-ui</artifactId>
+	<version>2.9.0-SNAPSHOT</version>
+</dependency>
+<dependency>
+	<groupId>org.webjars</groupId>
+	<artifactId>webjars-locator</artifactId>
+	<version>0.32</version>
+</dependency>
